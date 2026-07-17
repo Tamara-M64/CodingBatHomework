@@ -6,5 +6,6 @@ public class SumDouble {
         if (a == b){
             sum = sum*2;
         }
+        return sum;
     }
 }
