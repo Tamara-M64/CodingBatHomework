@@ -1,4 +1,4 @@
-package com.demoqa;
+package com.demoqa.warmup_1;
 
 public class Makes10 {
     public boolean makes10(int a, int b) {

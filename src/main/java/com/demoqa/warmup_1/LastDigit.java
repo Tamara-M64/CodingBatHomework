@@ -1,4 +1,4 @@
-package com.demoqa;
+package com.demoqa.warmup_1;
 
 public class LastDigit {
     public boolean lastDigit(int a, int b){

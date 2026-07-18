@@ -1,4 +1,4 @@
-package com.demoqa;
+package com.demoqa.warmup_1;
 
 public class MissingChar {
     public String missingChar( String str, int n){

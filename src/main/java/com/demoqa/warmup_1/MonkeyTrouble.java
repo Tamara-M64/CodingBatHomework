@@ -1,4 +1,4 @@
-package com.demoqa;
+package com.demoqa.warmup_1;
 
 public class MonkeyTrouble {
     public boolean monkeyTrouble(boolean aSmile, boolean bSmile) {

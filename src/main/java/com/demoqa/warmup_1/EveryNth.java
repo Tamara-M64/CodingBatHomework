@@ -1,4 +1,4 @@
-package com.demoqa;
+package com.demoqa.warmup_1;
 
 public class EveryNth {
     public String everyNth(String str, int n){

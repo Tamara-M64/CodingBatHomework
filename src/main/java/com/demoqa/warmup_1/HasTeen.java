@@ -1,4 +1,4 @@
-package com.demoqa;
+package com.demoqa.warmup_1;
 
 public class HasTeen {
     public boolean hasTeen(int a, int b, int c) {
