@@ -1,4 +1,4 @@
-package com.demoqa;
+package com.demoqa.warmup_1;
 
 public class PosNed {
     public boolean posNeg ( int a, int b, boolean negative){

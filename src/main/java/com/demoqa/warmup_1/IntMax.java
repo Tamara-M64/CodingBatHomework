@@ -1,4 +1,4 @@
-package com.demoqa;
+package com.demoqa.warmup_1;
 
 public class IntMax {
     public int intMax(int a, int b, int c){

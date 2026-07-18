@@ -1,4 +1,4 @@
-package com.demoqa;
+package com.demoqa.warmup_1;
 
 public class In3050 {
     public boolean in3050(int a, int b){
